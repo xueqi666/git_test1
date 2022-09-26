@@ -11,8 +11,7 @@ public class TE {
         System.out.println("hello word");
         System.out.println("hello word");
         System.out.println("hello word");
-        System.out.println("hello word");
-        System.out.println("dcscd");
+
     }
 
 
